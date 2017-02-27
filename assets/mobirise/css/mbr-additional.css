@@ -412,11 +412,14 @@ h6,
   opacity: 0 !important;
 }
 #slider3-8 H2 {
-  font-size: 32px;
+  font-size: 25px;
   text-align: center;
 }
 #slider3-8 P {
   text-align: center;
+}
+#slider3-8 I {
+  font-size: 30px;
 }
 #contacts1-13 STRONG {
   color: #ffffff;
