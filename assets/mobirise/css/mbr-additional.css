@@ -410,9 +410,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -483,6 +480,9 @@ h6,
 #social-buttons3-2 .mbr-section-title,
 #social-buttons3-2 .btn-social {
   color: #fff;
+}
+#social-buttons3-2 .mbr-section-title {
+  color: #ffffff;
 }
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
