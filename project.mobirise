@@ -362,6 +362,11 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts2-6",
           "_params": {
             "paddingTop": "1",
@@ -382,12 +387,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>7101 W. Capital Dr.<br>Milwaukee, WI.<br>53216<br><br><br>\n<strong>Contacts</strong><br>\nEmail: melissa.washington@gmx.com<br>\nPh:: +1 (414) 269 9630<br>\nFax: 1+ (414) 393 0020",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
         },
         {
           "_inherit": "social-buttons2",
